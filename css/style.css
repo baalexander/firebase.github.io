@@ -212,6 +212,15 @@ p.larger {
   margin-bottom: 20px;
 }
 
+.links {
+  text-align: center;
+  font-size: 16px;
+}
+
+.auth {
+  padding: 0px;
+}
+
 @font-face {
   font-family: 'Proxima Nova Bold';
   src: url('../fonts/proximanova-bold-webfont.eot');
